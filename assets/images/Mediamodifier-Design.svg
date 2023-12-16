@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 5.2.4</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="df12e728-ebf4-4602-88f1-05eb7958ef9c"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1; visibility: hidden;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="34878e6a-a00b-4a95-b46e-3665d6586e58"  >
+</g>
+<g transform="matrix(67.5 0 0 67.5 540 540)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: evenodd; opacity: 1;"  transform=" translate(-8, -8)" d="M 10.7668 5.33333 L 10.5038 5.99715 L 9.33974 8.9355 L 8.76866 10.377 L 7.33333 14 L 9.10751 14 L 9.83505 12.0326 L 13.4217 12.0326 L 14.162 14 L 16 14 L 12.5665 5.33333 L 10.8278 5.33333 L 10.7668 5.33333 Z M 10.6186 9.93479 L 10.3839 10.5632 L 11.1036 10.5632 L 12.8856 10.5632 L 11.6348 7.2136 L 10.6186 9.93479 Z M 9.52722 4.84224 C 9.55393 4.77481 9.58574 4.71045 9.62211 4.64954 L 6.41909 4.64954 L 6.41909 2 L 4.926 2 L 4.926 4.64954 L 0.540802 4.64954 L 0.540802 5.99715 L 4.31466 5.99715 C 3.35062 7.79015 1.75173 9.51463 0 10.4283 C 0.329184 10.7138 0.811203 11.2391 1.04633 11.5931 C 2.55118 10.6795 3.90318 9.22912 4.926 7.57316 L 4.926 12.6667 L 6.41909 12.6667 L 6.41909 7.51606 C 6.81951 8.15256 7.26748 8.76169 7.7521 9.32292 L 8.31996 7.88955 C 7.80191 7.29052 7.34631 6.64699 6.9834 5.99715 L 9.06968 5.99715 L 9.52722 4.84224 Z" stroke-linecap="round" />
+</g>
+</svg>
